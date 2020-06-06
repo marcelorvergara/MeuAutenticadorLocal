@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuAutenticador</string>
+    <string name="identificacao">InfnetAuth</string>
+    <string name="tipo_conta">com.infnet.local</string>
+</resources>
